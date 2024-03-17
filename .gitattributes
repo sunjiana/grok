@@ -36,3 +36,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00519_000 filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00713_000 filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00005_000 filter=lfs diff=lfs merge=lfs -text
+ckpt/tensor00008_000 filter=lfs diff=lfs merge=lfs -text
