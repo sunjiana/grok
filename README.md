@@ -3,7 +3,7 @@ license: apache-2.0
 ---
 # Grok-1
 
-This repository contains JAX example code for loading and running the Grok-1 open-weights model.
+This repository contains the weights of the Grok-1 open-weights model.
 
 Make sure to download the `int8` checkpoint to the `checkpoints` directory and run
 
