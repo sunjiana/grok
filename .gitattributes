@@ -196,3 +196,4 @@ ckpt/tensor00268_000 filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00269_000 filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00270_000 filter=lfs diff=lfs merge=lfs -text
 ckpt/tensor00271_000 filter=lfs diff=lfs merge=lfs -text
+ckpt/tensor00272_000 filter=lfs diff=lfs merge=lfs -text
