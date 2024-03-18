@@ -11,7 +11,7 @@ This repository contains the weights of the Grok-1 open-weights model. You can f
 git clone https://github.com/xai-org/grok-1.git && cd grok-1
 ```
 
-Then, make sure to download the `int8` checkpoint to the `checkpoints` directory:
+Then, make sure to download the `int8` checkpoint to the `checkpoints` directory by executing this command in the repo root directory:
 
 ```shell
 huggingface-cli download xai-org/grok-1 --repo-type model --include ckpt-0/* --local-dir checkpoints --local-dir-use-symlinks False
