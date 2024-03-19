@@ -27,4 +27,4 @@ You should be seeing output from the language model.
 
 Due to the large size of the model (314B parameters), a multi-GPU machine is required to test the model with the example code.
 
-p.s. we're hiring: https://x.ai/career
+p.s. we're hiring: https://x.ai/careers
